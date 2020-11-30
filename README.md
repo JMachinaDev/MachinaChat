@@ -1,7 +1,7 @@
 # MachinaChat
 Realtime Chat application.
 
-# Libraries
+## Libraries
 -Created using the following Technologies
   -Node.js 
   -Express 
